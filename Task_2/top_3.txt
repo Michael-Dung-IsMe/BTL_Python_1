@@ -1,0 +1,66 @@
+﻿📊 Standard SoT/90
+==================================================
+⬆️ Top 3:
+  Julio Enciso: 3.37
+  Julio Enciso: 3.37
+  Donyell Malen: 2.76
+⬇️ Bottom 3:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+--------------------------------------------------
+📊 Standard G/Sh
+==================================================
+⬆️ Top 3:
+  John Stones: 1.0
+  Axel Disasi: 0.5
+  Axel Disasi: 0.5
+⬇️ Bottom 3:
+  Aaron Cresswell: 0.0
+  Abdukodir Khusanov: 0.0
+  Abdul Fatawu Issahaku: 0.0
+--------------------------------------------------
+📊 Standard Dist
+==================================================
+⬆️ Top 3:
+  Ibrahim Sangaré: 32.0
+  Emmanuel Agbadou: 31.8
+  Ryan Fraser: 31.6
+⬇️ Bottom 3:
+  Kieran Tierney: 2.6
+  Harry Clarke: 4.5
+  John Stones: 5.1
+--------------------------------------------------
+📊 Tackles Tkl
+==================================================
+⬆️ Top 3:
+  Idrissa Gana Gueye: 124
+  Daniel Muñoz: 113
+  João Gomes: 105
+⬇️ Bottom 3:
+  Aaron Ramsdale: 0
+  Alex McCarthy: 0
+  Alex Palmer: 0
+--------------------------------------------------
+📊 Tackles TklW
+==================================================
+⬆️ Top 3:
+  Daniel Muñoz: 74
+  Idrissa Gana Gueye: 74
+  Moisés Caicedo: 64
+⬇️ Bottom 3:
+  Aaron Ramsdale: 0
+  Alex McCarthy: 0
+  Alex Palmer: 0
+--------------------------------------------------
+📊 Blocks
+==================================================
+⬆️ Top 3:
+  Nathan Collins: 71
+  Murillo: 67
+  Tyrick Mitchell: 62
+⬇️ Bottom 3:
+  Aaron Ramsdale: 0
+  Alex McCarthy: 0
+  Alex Palmer: 0
+--------------------------------------------------
