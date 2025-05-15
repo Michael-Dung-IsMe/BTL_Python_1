@@ -17,7 +17,7 @@ IMG_OUTPUT_DIR = './Task_2/histograms'
 ENCODING = 'utf-8-sig'
 INPUT_FILE = './Task_1/results.csv'
 
-# # ---------------------------- COLUMN INFO ----------------------------
+# ---------------------------- COLUMN INFO ----------------------------
 NON_NUMERIC = ['player', 'nationality', 'position', 'team', 'age']
 
 attack_metrics = {
