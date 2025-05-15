@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import re
 from pathlib import Path
 
-# -------------------- CONFIG --------------------
+# ---------------------------- CONFIG ----------------------------
 np.random.seed(42)
 plt.rcParams.update({'font.size': 12})
 HIST_BINS = 20
@@ -17,7 +17,7 @@ IMG_OUTPUT_DIR = './Task_2/histograms'
 ENCODING = 'utf-8-sig'
 INPUT_FILE = './Task_1/results.csv'
 
-# ------------------- COLUMN INFO -------------------
+# # ---------------------------- COLUMN INFO ----------------------------
 NON_NUMERIC = ['player', 'nationality', 'position', 'team', 'age']
 
 attack_metrics = {
@@ -32,7 +32,7 @@ defense_metrics = {
     'Blocks': 'blocks'
 }
 
-# ------------------- FUNCTIONS --------------------
+# ---------------------------- FUNCTIONS ----------------------------
 
 def read_and_clean_data():
     """Load CSV and convert numeric strings"""
@@ -110,7 +110,7 @@ def add_overall_average(df_stats, metrics):
     return pd.concat([pd.DataFrame([all_row]), df_stats], ignore_index=True)
 
 
-# ------------------- MAIN LOGIC --------------------
+# ---------------------------- MAIN PROCESS ----------------------------
 def main():
     df = read_and_clean_data()
     if df is None:

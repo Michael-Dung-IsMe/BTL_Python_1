@@ -140,7 +140,6 @@ try:
                         player = row['player']
                         if player in results['player'].values:
                             for col in temp_df.columns:
-                                # print(col)
                                 if col in results.columns:
                                     results.loc[results['player'] == player, col] = row[col]
 
